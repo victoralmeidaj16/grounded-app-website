@@ -1,10 +1,10 @@
-# Grounded App Website
+# Tudy App Website
 
-Website oficial do Grounded - Estudos com IA.
+Website oficial do Tudy - Estudos com IA.
 
-## 📱 Sobre o Grounded
+## 📱 Sobre o Tudy
 
-Grounded é um aplicativo educacional que utiliza Inteligência Artificial para criar estudos personalizados, quizzes adaptativos e trilhas de aprendizado.
+Tudy é um aplicativo educacional que utiliza Inteligência Artificial para criar estudos personalizados, quizzes adaptativos e trilhas de aprendizado.
 
 ## 🌐 Páginas
 
@@ -19,10 +19,11 @@ https://victoralmeidaj16.github.io/grounded-app-website/
 
 ## 📞 Contato
 
-- Email: victor@grounded.app
+- Email: victor.almeida.jeremias@gmail.com
+- Telefone/WhatsApp: +55 (48) 99614-7527
 - App Store: [Em breve]
 
 ## 📄 Licença
 
-© 2025 Grounded. Todos os direitos reservados.
+© 2025 Tudy. Todos os direitos reservados.
 
